@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeevan Parmar!
 
-![Jeevan Parmar](link-to-your-image) <!-- Replace with the actual link to your picture -->
+![Jeevan Parmar](https://github.com/jeevanp03/jeevanp03/blob/main/imgs/IMG_2307.HEIC) <!-- Replace with the actual link to your picture -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeevan-parmar-62b464194)
 [![Resume](https://img.shields.io/badge/Resume-Download-red)](https://github.com/jeevanp03/jeevanp03/blob/main/docs/Jeevan_s_Resume.pdf)
