@@ -3,7 +3,7 @@
 ![Jeevan Parmar](link-to-your-image) <!-- Replace with the actual link to your picture -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeevan-parmar-62b464194)
-[![Resume](https://img.shields.io/badge/Resume-Download-red)](https://www.instagram.com/jeevan.prmr) <!-- Replace with the actual link to your resume PDF -->
+[![Resume](https://img.shields.io/badge/Resume-Download-red)](https://github.com/jeevanp03/jeevanp03/blob/main/docs/Jeevan_s_Resume.pdf)
 
 **AI Enthusiast | Full-Stack Developer | Machine Learning Engineer**
 
