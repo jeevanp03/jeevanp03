@@ -1,9 +1,20 @@
 # 👋 Hi, I'm Jeevan Parmar!
 
-![Jeevan Parmar](https://github.com/jeevanp03/jeevanp03/blob/main/imgs/IMG_2307.png) <!-- Replace with the actual link to your picture -->
+<div align="center">
+  <img src="https://github.com/jeevanp03/jeevanp03/blob/main/imgs/IMG_2307.png" alt="Jeevan Parmar" width="200"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeevan-parmar-62b464194)
-[![Resume](https://img.shields.io/badge/Resume-Download-red)](https://github.com/jeevanp03/jeevanp03/blob/main/docs/Jeevan_s_Resume.pdf)
+<div align="center">
+  <a href="https://linkedin.com/in/jeevan-parmar-62b464194" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jeevanp03/jeevanp03/blob/main/docs/Jeevan_s_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.instagram.com/jeevan.prmr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 **AI Enthusiast | Sofware Engineer | Machine Learning Engineer**
 
