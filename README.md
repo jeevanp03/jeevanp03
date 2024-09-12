@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeevan-parmar-62b464194)
 [![Resume](https://img.shields.io/badge/Resume-Download-red)](https://github.com/jeevanp03/jeevanp03/blob/main/docs/Jeevan_s_Resume.pdf)
 
-**AI Enthusiast | Full-Stack Developer | Machine Learning Engineer**
+**AI Enthusiast | Sofware Engineer | Machine Learning Engineer**
 
 Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at the University of Waterloo, specializing in Artificial Intelligence. I'm passionate about building AI-driven solutions, designing full-stack applications, and exploring the intersection of data science and software engineering.
 
