@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 
 ## 🔧 Technical Skills
 - **Languages:** Java, Python, JavaScript, SQL, R, C#
-- **Frameworks:** JUnit, Express.js, Redux, LangChain, HuggingFace, OpenAI, Cohere
+- **Frameworks:** LangChain, LangGraph, HuggingFace, OpenAI, Cohere, JUnit, Express.js, Redux
 - **Libraries:** PyTorch, pandas, NumPy, Scikit-learn, React.js, Node.js
 - **Tools:** Docker, Firebase, Azure, AWS, Git, MySQL, MongoDB, ChromaDB
 
