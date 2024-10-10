@@ -46,6 +46,11 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 
 ## 🌟 Featured Projects
 
+### [Audio Transcriber](https://github.com/jeevanp03/Audio_Transcription)
+Tool Used to Help Complete MSE 343
+- **Tech Stack:** Python, OpenAI, HuggingFace
+- Developed an AI-powered audio transcription tool integrating OpenAI's GPT and Whisper models with open-source models from Hugging Face, combining voice recognition and LLMs to parse and clean data, and implemented a human-in-the-loop system to enhance transcription accuracy and efficiency.
+
 ### [Meal Stream](https://github.com/MSci-245-react/course-project-team-23)
 Capstone Project for MSCI 342
 - **Tech Stack:** MySQL, Firebase, JavaScript, Node.js, React.js, Redux, Express.js
@@ -59,7 +64,7 @@ Capstone Project for MSCI 446
 ### [IMDB Clone](https://github.com/jeevanp03/IMDB_Clone)
 Final Project for MSCI 245
 - **Tech Stack:** MySQL, JavaScript, React.js, Node.js, Express.js
-- Built a full-stack clone of IMDB, leveraging React.js for the frontend and Node.js for server-side development.
+- Built a full-stack clone of IMDB, leveraging React.js for the front end and Node.js for server-side development.
 
 ### [NBA Fantasy Projection](https://jeevanp03.github.io/nbaprediction-website/)
 Self-directed learning project
@@ -71,7 +76,7 @@ Self-directed learning project
 Bachelor of Applied Science (Honours Co-op)  
 Management Engineering, Artificial Intelligence Option  
 Sept 2021 — Present  
-- Key Courses: Machine Learning (MSCI 446), Principles of Software Engineering (MSCI 342), Databases & Software Design (MSCI 245), Algorithms & Data Structures (MSCI 240)
+- Key Courses: Machine Learning (MSCI 446), Principles of Software Engineering (MSCI 342), Databases & Software Design (MSCI 245), Algorithms & Data Structures (MSCI 240), Human-Computer Interaction (MSE 343), Search Engines (MSE 541)
 
 ## 📫 Let's Connect!
 - **GitHub:** [jeevanp03](https://github.com/jeevanp03)
