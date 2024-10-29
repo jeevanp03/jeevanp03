@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
   - Integrated the Gemini model into Cognite’s doc-parser, boosting document functionality on GCP.
 
 - **AI Engineer** @ XCare, Toronto, Ontario  
-  *Oct 2023 — Present*  
+  *Oct 2023 — Oct 2024*  
   - Fine-tuned Dense CNNs and Vision Transformers, achieving 90% accuracy in X-ray diagnosis.
   - Architected a RAG-AI pipeline for personalized rehabilitation suggestions, referenced by medical professionals.
   - Published and presented research at the Canadian Undergraduate Conference on AI.
