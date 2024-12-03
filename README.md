@@ -55,6 +55,11 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 <details>
   <summary><strong>🌟 Featured Projects</strong></summary>
 
+### [Search Engine](https://github.com/jeevanp03/Search_Engine)
+*Capstone Project for MSE 541*
+- **Tech Stack:** Python
+- Developed a search engine from scratch for MSE 541, leveraging BM25 for document retrieval and cosine similarity to generate query-biased summaries. Conducted retrieval analysis using hypothesis testing and t-tests to compare search engine performance and applied ranked retrieval techniques to optimize relevance and user satisfaction.
+
 ### [Audio Transcriber](https://github.com/jeevanp03/Audio_Transcription)
 *Tool Used to Help Complete MSE 343*
 - **Tech Stack:** Python, OpenAI, HuggingFace
