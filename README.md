@@ -23,30 +23,57 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 <details>
   <summary><strong>💼 Professional Experience</strong></summary>
 
+- **Social Robotics Programmer - Researcher** @ Norwegian University of Science and Technology, Trondheim, Norway  
+  *Jan 2025 - April 2025*
+  - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 80%
+  - Integrated a Python agent with custom Kotlin Furhat skills for NorwAI’s first agent-based robot-connected backend
+  - Optimized models with llama.ccp, reducing cloud dependency by 15% and achieving sub-8s responses
+  - Led the full feature lifecycle from ideation to evaluation, aligning with NorwAI’s research innovation goals
+
 - **Software Engineer Co-op** @ Cognite, Austin, Texas  
-  *May 2024 — Sept 2024*  
-  - Developed Cognite’s first industrial agent for the Atlas AI program, improving workflow troubleshooting.
-  - Enhanced keyword extraction accuracy by 90% through embedding techniques and cross-encoding.
-  - Integrated the Gemini model into Cognite’s doc-parser, boosting document functionality on GCP.
+  *May 2024 — Sept 2024*
+  - Developed Cognite’s first industrial agent for the Atlas AI program, integrating tools for troubleshooting workflows
+  - Boosted doc-parser’s keyword extraction accuracy to 90% using advanced embedding and cross-encoding techniques
+  - Integrated Gemini model into Cognite’s doc-parser, enabling GCP users access and enhancing overall functionality
+  - Implemented the Tail Generation Pattern to generate summaries, optimizing long-term memory recursively
 
 - **AI Engineer** @ XCare, Toronto, Ontario  
-  *Oct 2023 — Oct 2024*  
-  - Fine-tuned Dense CNNs and Vision Transformers, achieving 90% accuracy in X-ray diagnosis.
-  - Architected a RAG-AI pipeline for personalized rehabilitation suggestions, referenced by medical professionals.
-  - Published and presented research at the Canadian Undergraduate Conference on AI.
+  *Oct 2023 — Oct 2024*
+  - Fine-tuned Dense CNNs and Vision Transformers for X-ray diagnosis, achieving 90% accuracy
+  - Developed a RAPTOR-AI pipeline, increasing retrieval accuracy to 95%, graded by medical professionals
+  - Architected a RAG-AI pipeline delivering personalized rehabilitation info with references from medical sources
+  - Wrote, presented, and published a paper on the tool at the Canadian Undergraduate Conference on AI
 
 - **Software Engineer Co-op** @ Genellipse Inc., Toronto, Ontario  
-  *Sept 2023 — Dec 2023*  
-  - Optimized MongoDB architecture for vector similarity search, improving data efficiency by 75%.
-  - Implemented machine learning models with PyTorch, achieving high accuracy (R² of 0.85+).
+  *Sept 2023 — Dec 2023*
+  - Optimized MongoDB architecture: enabling vector similarity search, enhancing data efficiency across 13 collections
+  - Boosted data processing accuracy by 75% with Adobe and RAG, while decreasing runtime to sub-3 minutes
+  - Implemented MNN and RNN Pytorch models, leading to a R2 of 0.85 and 0.95, respectively
+    
+- **Full Stack Developer** @ Approva Financial, Toronto, Ontario  
+  *Jan 2023 — Dec 2023*
+  - Helped to secure round 2 funding within Techstars incubator through key contributions to the MERN application
+  - Aided in building a machine learning-based recommendation system for matching lenders with brokers’ applicants
+  - Contributed to improving lender-applicant matchmaking accuracy through predictive analytics integration
 
 </details>
 
 <details>
+  <summary><strong>🏫 Student Clubs</strong></summary>
+
+- **Core Member - AI Developer** @ WAT.ai, Waterloo, Ontario  
+  *Oct 2023 — Oct 2024*
+  Xray Tooling Project:
+  - Integrated OpenAI's, HuggingFace's, and Cohere's models into the RAG pipeline, improving interpretations
+  - Introduced ChromaDB into RAG pipeline, boosting rehabilitation recommendation system accuracy by 80%
+  - Developed an API-driven Xray Tooling Chatbot leveraging RAG and NLP, decreasing latency to sub-2 minutes
+<\details
+
+<details>
   <summary><strong>🔧 Technical Skills</strong></summary>
 
-- **Languages:** Java, Python, JavaScript, SQL, R, C#
-- **Frameworks:** LangChain, LangGraph, HuggingFace, OpenAI, Cohere, JUnit, Express.js, Redux
+- **Languages:** Java, Python, Kotlin, JavaScript, SQL, R, C#
+- **Frameworks:** LangChain, LangGraph, Llama.ccp, HuggingFace, OpenAI, Cohere, JUnit, Express.js, Redux
 - **Libraries:** PyTorch, pandas, NumPy, Scikit-learn, React.js, Node.js
 - **Tools:** Docker, Firebase, Azure, AWS, Git, MySQL, MongoDB, ChromaDB
 
