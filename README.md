@@ -55,7 +55,6 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
   - Helped to secure round 2 funding within Techstars incubator through key contributions to the MERN application
   - Aided in building a machine learning-based recommendation system for matching lenders with brokers’ applicants
   - Contributed to improving lender-applicant matchmaking accuracy through predictive analytics integration
-
 </details>
 
 <details>
