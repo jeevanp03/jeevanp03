@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
   - Integrated OpenAI's, HuggingFace's, and Cohere's models into the RAG pipeline, improving interpretations
   - Introduced ChromaDB into RAG pipeline, boosting rehabilitation recommendation system accuracy by 80%
   - Developed an API-driven Xray Tooling Chatbot leveraging RAG and NLP, decreasing latency to sub-2 minutes
-</details
+</details>
 
 <details>
   <summary><strong>🔧 Technical Skills</strong></summary>
