@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 
 - **Social Robotics Programmer - Researcher** @ Norwegian University of Science and Technology, Trondheim, Norway  
   *Jan 2025 - April 2025*
-  - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 80%
+  - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 15%
   - Integrated a Python agent with custom Kotlin Furhat skills for NorwAI’s first agent-based robot-connected backend
   - Optimized models with llama.ccp, reducing cloud dependency by 15% and achieving sub-8s responses
   - Led the full feature lifecycle from ideation to evaluation, aligning with NorwAI’s research innovation goals
