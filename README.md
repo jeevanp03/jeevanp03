@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 - **Social Robotics Programmer - Researcher** @ Norwegian University of Science and Technology, Trondheim, Norway  
   *Jan 2025 - April 2025*
   - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 15%
-  - Integrated a Python agent with custom Kotlin Furhat skills for NorwAI’s first agent-based robot-connected backend
-  - Optimized models with llama.ccp, reducing cloud dependency by 15% and achieving sub-8s responses
-  - Led the full feature lifecycle from ideation to evaluation, aligning with NorwAI’s research innovation goals
+  - Integrated Python agent with custom Kotlin Furhat skills for NorwAI’s first agent-based robot-connected backend
+  - Optimized locally deployed models with llama.cpp, achieving sub-8s responses, cutting cloud costs by 15%
+  - Deployed Dockerized FastAPI on an EC2 instance, leveraging extra compute to cut generation time to sub-4s
 
 - **Software Engineer Co-op** @ Cognite, Austin, Texas  
   *May 2024 — Sept 2024*
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
   *Sept 2023 — Dec 2023*
   - Optimized MongoDB architecture: enabling vector similarity search, enhancing data efficiency across 13 collections
   - Boosted data processing accuracy by 75% with Adobe and RAG, while decreasing runtime to sub-3 minutes
-  - Implemented MNN and RNN Pytorch models, leading to a R2 of 0.85 and 0.95, respectively
+  - Implemented MNN and RNN PyTorch models, leading to an R2 of 0.85 and 0.95, respectively
     
 - **Full Stack Developer** @ Approva Financial, Toronto, Ontario  
   *Jan 2023 — Dec 2023*
@@ -76,9 +76,9 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
   <summary><strong>🔧 Technical Skills</strong></summary>
 
 - **Languages:** Java, Python, Kotlin, JavaScript, SQL, R, C#
-- **Frameworks:** LangChain, LangGraph, Llama.ccp, HuggingFace, OpenAI, Cohere, JUnit, Express.js, Redux
+- **Frameworks:** LangChain, LangGraph, Llama.cpp, HuggingFace, OpenAI, Cohere, JUnit, Express.js, Redux
 - **Libraries:** PyTorch, pandas, NumPy, Scikit-learn, React.js, Node.js
-- **Tools:** Docker, Firebase, Azure, AWS, Git, MySQL, MongoDB, ChromaDB
+- **Tools:** Docker, Firebase, Azure, GCP, AWS, Git, MySQL, MongoDB, ChromaDB
 
 </details>
 
