@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 <details>
   <summary><strong>🏫 Student Clubs</strong></summary>
 
-- **Core Member - AI Developer**
+- **Core Member - AI Engineer**
   @ WAT.ai, Waterloo, Ontario  
   *Oct 2023 — Oct 2024*
   Xray Tooling Project:
