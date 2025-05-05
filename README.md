@@ -21,13 +21,18 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
   <summary><strong>💼 Professional Experience</strong></summary>
 
 - **Undergraduate Research Assistant**
-  @ University of Waterloo - Department of MSE, Waterloo, Canada
-  *May 2025 - Present*
+  @ University of Waterloo - Department of MSE, Waterloo, Canada  
+  *May 2025 — Present*
   - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making
 
-- **Social Robotics Programmer - Researcher**
+- **Undergraduate Research Assistant**
+  @ University of Waterloo - Department of MSE, Waterloo, Canada
+  *May 2025 — Present*
+  - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making
+
+- **Social Robotics Programmer - Researcher Co-op**
   @ Norwegian University of Science and Technology - NorwAI, Trondheim, Norway  
-  *Jan 2025 - April 2025*
+  *Jan 2025 — April 2025*
   - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 15%
   - Integrated Python agent with custom Kotlin Furhat skills for NorwAI’s first agent-based robot-connected backend
   - Optimized locally deployed models with llama.cpp, achieving sub-8s responses, cutting cloud costs by 15%
