@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at t
 <details>
   <summary><strong>💼 Professional Experience</strong></summary>
 
--**Undergraduate Research Assistant**
+- **Undergraduate Research Assistant**
   @ University of Waterloo - Department of Management Science and Engineering, Waterloo, Canada
   *May 2025 - Present*
   - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making
