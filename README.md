@@ -32,7 +32,7 @@ In my spare time, I enjoy watching and playing: both forms of football (American
   *May 2025 — Present*
   - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making
 
-- **Social Robotics Programmer - Researcher Co-op**
+- **Social Robotics Engineer - Researcher Co-op**
   @ Norwegian University of Science and Technology - NorwAI, Trondheim, Norway  
   *Jan 2025 — April 2025*
   - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 15%
