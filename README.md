@@ -8,13 +8,6 @@
   <a href="https://linkedin.com/in/jeevan-parmar-62b464194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<!--   <!-- Updated resume link below -->
-  <a href="https://github.com/jeevanp03/jeevanp03/raw/main/imgs/Jeevan_s_Resume.pdf?raw=true"
-     download="Jeevan_s_Resume.pdf"
-     target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
-         alt="Resume" />
-  </a> -->
   <a href="https://www.instagram.com/jeevan.prmr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
