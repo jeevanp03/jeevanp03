@@ -17,7 +17,7 @@
 
 Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at the University of Waterloo, specializing in Artificial Intelligence. I'm passionate about building AI-driven solutions, designing full-stack applications, and exploring the intersection of data science and software engineering.
 
-
+In my spare time, I enjoy watching and playing: both forms of football (American and European), basketball, squash, tennis, and golf. I am also an amateur marathon runner, Brazilian Jiu-Jitsu practitioner, as well as a casual cologne collector. 
 
 <details>
   <summary><strong>💼 Professional Experience</strong></summary>
