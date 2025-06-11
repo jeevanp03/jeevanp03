@@ -26,9 +26,9 @@ In my spare time, I enjoy watching and playing: both forms of football (American
   @ University of Waterloo - Department of MSE, Waterloo, Canada  
   *June 2025 — Present*
   - Understanding and creating a conversational system for search and recommendation purposes with Professor Mark Smucker
-
+    
 - **Undergraduate Research Assistant**
-  @ University of Waterloo - Department of MSE, Waterloo, Canada
+  @ University of Waterloo - Department of MSE, Waterloo, Canada  
   *May 2025 — Present*
   - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making with Professor Sharon Ferguson
 
