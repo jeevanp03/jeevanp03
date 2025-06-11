@@ -24,13 +24,13 @@ In my spare time, I enjoy watching and playing: both forms of football (American
 
 - **Undergraduate Research Assistant**
   @ University of Waterloo - Department of MSE, Waterloo, Canada  
-  *May 2025 — Present*
-  - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making
+  *June 2025 — Present*
+  - Understanding and creating a conversational system for search and recommendation purposes with Professor Mark Smucker
 
 - **Undergraduate Research Assistant**
   @ University of Waterloo - Department of MSE, Waterloo, Canada
   *May 2025 — Present*
-  - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making
+  - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making with Professor Sharon Ferguson
 
 - **Social Robotics Engineer - Researcher Co-op**
   @ Norwegian University of Science and Technology - NorwAI, Trondheim, Norway  
