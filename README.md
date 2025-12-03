@@ -1,152 +1,134 @@
-# 👋 Hi, I'm Jeevan Parmar!
+# 👋 Hi, I'm Jeevan Parmar
 
 <div align="center">
-  <img src="https://github.com/jeevanp03/jeevanp03/blob/main/imgs/IMG_2307.png" alt="Jeevan Parmar" width="200"/>
+  <img src="https://github.com/jeevanp03/jeevanp03/blob/main/imgs/IMG_2307.png" alt="profile image" width="210"/>
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/jeevan-parmar-62b464194" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/jeevan.prmr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://linkedin.com/in/jeevan-parmar-62b464194"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jeevan.prmr"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-**AI Enthusiast | Software Engineer | Machine Learning Engineer**
+---
 
-Welcome to my GitHub profile! I'm a 4th-year Management Engineering student at the University of Waterloo, specializing in Artificial Intelligence. I'm passionate about building AI-driven solutions, designing full-stack applications, and exploring the intersection of data science and software engineering.
+## 🧠 What I Work On
 
-In my spare time, I enjoy watching and playing: both forms of football (American and European), basketball, squash, tennis, and golf. I am also an amateur marathon runner, Brazilian Jiu-Jitsu practitioner, as well as a casual cologne collector. 
+I build **AI systems that work in the real world** — robotics, industrial troubleshooting, clinical decision support, retrieval systems, and conversational interfaces.  
+My work blends AI, software engineering, and human-centered design.
 
-<details>
-  <summary><strong>💼 Professional Experience</strong></summary>
+I specialize in:
+- Retrieval-Augmented Generation (RAG)  
+- Agentic workflows for real tasks  
+- Model optimization (local inference, llama.cpp)  
+- Conversational systems & search interfaces  
+- Evaluation of human–AI decision-making  
 
-- **Undergraduate Research Assistant**
-  @ University of Waterloo - Department of MSE, Waterloo, Canada  
-  *June 2025 — Present*
-  - Understanding and creating a conversational system for search and recommendation purposes with Professor Mark Smucker
-    
-- **Undergraduate Research Assistant**
-  @ University of Waterloo - Department of MSE, Waterloo, Canada  
-  *May 2025 — Present*
-  - Designing online experiments to study appropriate human-AI (LLMs) reliance in subjective decision-making with Professor Sharon Ferguson
+I care about making AI **useful, reliable, and understandable** — not just high-scoring in benchmarks.
 
-- **Social Robotics Engineer - Researcher Co-op**
-  @ Norwegian University of Science and Technology - NorwAI, Trondheim, Norway  
-  *Jan 2025 — April 2025*
-  - Developed a conversational agent using Adaptive, Corrective, and Self RAG patterns, boosting accuracy by 15%
-  - Integrated Python agent with custom Kotlin Furhat skills for NorwAI’s first agent-based robot-connected backend
-  - Optimized locally deployed models with llama.cpp, achieving sub-8s responses, cutting cloud costs by 15%
-  - Deployed Dockerized FastAPI on an EC2 instance, leveraging extra compute to cut generation time to sub-4s
+---
 
-- **Software Engineer Co-op**
-  @ Cognite, Austin, Texas  
-  *May 2024 — Sept 2024*
-  - Developed Cognite’s first industrial agent for the Atlas AI program, integrating tools for troubleshooting workflows
-  - Boosted doc-parser’s keyword extraction accuracy to 90% using advanced embedding and cross-encoding techniques
-  - Integrated Gemini model into Cognite’s doc-parser, enabling GCP users access and enhancing overall functionality
-  - Implemented the Tail Generation Pattern to generate summaries, optimizing long-term memory recursively
+## 🚀 Highlights of What I’ve Built
 
-- **AI Engineer**
-  @ XCare, Toronto, Ontario  
-  *Oct 2023 — Oct 2024*
-  - Fine-tuned Dense CNNs and Vision Transformers for X-ray diagnosis, achieving 90% accuracy
-  - Developed a RAPTOR-AI pipeline, increasing retrieval accuracy to 95%, graded by medical professionals
-  - Architected a RAG-AI pipeline delivering personalized rehabilitation info with references from medical sources
-  - Wrote, presented, and published a paper on the tool at the Canadian Undergraduate Conference on AI
+### 🤖 **Robot Conversational Agent — NTNU (Trondheim, Norway)**
+A full RAG + agent pipeline running inside a Furhat social robot.  
+- Adaptive + Corrective + Self-RAG  
+- Sub-8s on-device inference (llama.cpp)  
+- FastAPI backend on EC2 (<4s generation)  
+- First agent-driven robot backend in the research group  
+- Rated **Outstanding** in my work-term evaluation  
 
-- **Software Engineer Co-op**
-  @ Genellipse Inc., Toronto, Ontario  
-  *Sept 2023 — Dec 2023*
-  - Optimized MongoDB architecture: enabling vector similarity search, enhancing data efficiency across 13 collections
-  - Boosted data processing accuracy by 75% with Adobe and RAG, while decreasing runtime to sub-3 minutes
-  - Implemented MNN and RNN PyTorch models, leading to an R2 of 0.85 and 0.95, respectively
-    
-- **Full Stack Developer**
-  @ Approva Financial, Toronto, Ontario  
-  *Jan 2023 — Dec 2023*
-  - Helped to secure round 2 funding within Techstars incubator through key contributions to the MERN application
-  - Aided in building a machine learning-based recommendation system for matching lenders with brokers’ applicants
-  - Contributed to improving lender-applicant matchmaking accuracy through predictive analytics integration
-</details>
+### 🏭 **Industrial Troubleshooting Agent — Cognite (Austin, Texas)**
+AI system for frontline industrial operators.  
+- First agent shipped within “Atlas AI”  
+- 90% accurate keyword extraction (embeddings + cross-encoders)  
+- Gemini multimodal integration for GCP users  
+- Recursive Tail Generation for long-term memory  
 
-<details>
-  <summary><strong>🏫 Student Clubs</strong></summary>
+### 🏥 **Clinical AI for Rehab & Imaging — XCare (Toronto)**
+- 90% X-ray diagnostic accuracy (CNNs + ViTs)  
+- RAPTOR-powered retrieval (95% clinician-validated)  
+- Personalized rehab guidance using medical-text RAG  
+- Published at an AI conference  
 
-- **Core Member - AI Engineer**
-  @ WAT.ai, Waterloo, Ontario  
-  *Oct 2023 — Oct 2024*
-  Xray Tooling Project:
-  - Integrated OpenAI's, HuggingFace's, and Cohere's models into the RAG pipeline, improving interpretations
-  - Introduced ChromaDB into RAG pipeline, boosting rehabilitation recommendation system accuracy by 80%
-  - Developed an API-driven Xray Tooling Chatbot leveraging RAG and NLP, decreasing latency to sub-2 minutes
-</details>
+### 🗣️ **Human–AI Reliance Research — University of Waterloo (Waterloo)**
+- Designing experiments on calibrated human–AI decision-making  
+- Building conversational search/recommendation systems  
+- First-author CHI submission  
 
-<details>
-  <summary><strong>🔧 Technical Skills</strong></summary>
+---
 
-- **Languages:** Java, Python, Kotlin, JavaScript, SQL, R, C#
-- **Frameworks:** LangChain, LangGraph, Llama.cpp, HuggingFace, OpenAI, Cohere, JUnit, Express.js, Redux
-- **Libraries:** PyTorch, pandas, NumPy, Scikit-learn, React.js, Node.js
-- **Tools:** Docker, Firebase, Azure, GCP, AWS, Git, MySQL, MongoDB, ChromaDB
+## 🌍 Cities I've Worked & Built In
 
-</details>
+- **Austin, Texas** — Industrial AI (Cognite)  
+- **Boston, Massachusetts** — Ops dashboards & tooling (PathAI)  
+- **Trondheim, Norway** — Robotics + RAG research (NorwAI, NTNU)  
+- **Toronto, Ontario** — Clinical AI + startup engineering + Banking Quality Automation Engineering
+- **Waterloo, Ontario** — Research + engineering degree  
+- **Vancouver, BC** — Early software work and customer-facing roles  
 
-<details>
-  <summary><strong>🌟 Featured Projects</strong></summary>
+These experiences shaped my ability to work across diverse cultures, industries, and technical stacks.
 
-### [Search Engine](https://github.com/jeevanp03/Search_Engine)
-*Capstone Project for MSE 541*
-- **Tech Stack:** Python
-- Developed a search engine from scratch for MSE 541, leveraging BM25 for document retrieval and cosine similarity to generate query-biased summaries. Conducted retrieval analysis using hypothesis testing and t-tests to compare search engine performance and applied ranked retrieval techniques to optimize relevance and user satisfaction.
+---
 
-### [Audio Transcriber](https://github.com/jeevanp03/Audio_Transcription)
-*Tool Used to Help Complete MSE 343*
-- **Tech Stack:** Python, OpenAI, HuggingFace
-- Developed an AI-powered audio transcription tool integrating OpenAI's GPT and Whisper models with open-source models from Hugging Face. Combined voice recognition and LLMs to parse and clean data, and implemented a human-in-the-loop system to enhance transcription accuracy and efficiency.
+## 🧰 Beyond AI: Other Technical Experience
 
-### [Meal Stream](https://github.com/MSci-245-react/course-project-team-23)
-*Capstone Project for MSCI 342*
-- **Tech Stack:** MySQL, Firebase, JavaScript, Node.js, React.js, Redux, Express.js
-- Developed a full-stack web application that allows users to plan meals based on dietary preferences and allergies, generate shopping lists, and track nutritional info.
+Outside of my AI/ML work, I’ve also built:
+- Full-stack MERN applications (startup/fintech)  
+- Banking automation testing frameworks (TD)  
+- Database + vector search systems (MongoDB redesigns)  
+- Predictive analytics tools and dashboards  
+- Production CI/CD pipelines (Jenkins, Firebase, Supabase)  
 
-### [Nodal Price Forecast Algorithm](https://github.com/MSCI-446-Project-Team/MSCI_446_ML_Course_Project)
-*Capstone Project for MSCI 446*
-- **Tech Stack:** MongoDB, Python, Scikit-learn, PyTorch
-- Applied machine learning techniques (Random Forest, XGBoost, LSTM) to predict energy prices in the US PJM Energy market, achieving significant accuracy with the Decision Tree model.
+A lot of my breadth comes from working across **startups, industry, research labs, and enterprise** environments.
 
-### [IMDB Clone](https://github.com/jeevanp03/IMDB_Clone)
-*Final Project for MSCI 245*
-- **Tech Stack:** MySQL, JavaScript, React.js, Node.js, Express.js
-- Built a full-stack clone of IMDB, leveraging React.js for the front end and Node.js for server-side development.
+👉 **For my full work experience and detailed career history, check my LinkedIn:**  
+https://linkedin.com/in/jeevan-parmar-62b464194
 
-### [NBA Fantasy Projection](https://jeevanp03.github.io/nbaprediction-website/)
-*Self-Directed Learning Project*
-- **Tech Stack:** Python, Scikit-learn, MySQL
-- Developed an ML model to predict player performance in the NBA based on historical data, applying algorithms such as Simple Linear Regression, K-Nearest Neighbors, and Decision Tree Regressor.
+---
 
-</details>
+## 🛠 Technical Toolbox
 
-<details>
-  <summary><strong>🎓 Education</strong></summary>
+**AI / ML:** PyTorch, HuggingFace, RAG, Agents, OpenAI, Gemini, llama.cpp  
+**Backend:** FastAPI, Node.js, Docker, AWS/GCP/Azure, microservices  
+**Full-Stack:** React, Vue, TypeScript, Express, SQL/NoSQL  
+**Infra / Tools:** ChromaDB, Supabase, Jenkins, Firebase  
+**Specialties:** Model optimization, conversational systems, applied ML research  
 
-**University of Waterloo**  
-*Bachelor of Applied Science (Honours Co-op)*  
-Management Engineering, Artificial Intelligence Option  
-*Sept 2021 — Present*  
-- **Key Courses:** Machine Learning (MSCI 446), Principles of Software Engineering (MSCI 342), Databases & Software Design (MSCI 245), Algorithms & Data Structures (MSCI 240), Human-Computer Interaction (MSE 343), Search Engines (MSE 541)
+---
 
-</details>
+## 📚 Featured Projects
 
-<details>
-  <summary><strong>📫 Let's Connect!</strong></summary>
+- **Search Engine (BM25 + embeddings):** Query-biased summaries + statistical evaluation  
+- **Audio Transcriber:** Whisper + GPT cleaning pipeline with HITL workflows  
+- **Meal Stream:** Full-stack meal planning + nutrition analytics  
+- **Energy Price Forecasting:** ML models for PJM market prediction  
+- **NBA Player Projection:** Live model deployment w/ analytics dashboard  
 
-- **GitHub:** [jeevanp03](https://github.com/jeevanp03)
-- **LinkedIn:** [Jeevan Parmar](https://linkedin.com/in/jeevan-parmar-62b464194)
-- **Instagram:** [jeevan.prmr](https://www.instagram.com/jeevan.prmr)
-- **Email:** [j29parma@uwaterloo.ca](mailto:j29parma@uwaterloo.ca)
+---
 
-Feel free to explore my projects and get in touch if you'd like to collaborate or discuss opportunities!
+## 🎓 About My Degree
 
-</details>
+I’m studying **Management Engineering (AI Option)** at the University of Waterloo — a mix of:
+- Machine Learning  
+- Optimization  
+- HCI  
+- Software engineering  
+- Systems design  
+- Decision analysis  
+
+My academic work includes CHI-focused research and building conversational/agentic systems.
+
+---
+
+## ⚽ Outside of Tech
+
+I train Brazilian Jiu-Jitsu, run marathons, play football (both), basketball, squash, tennis, and golf.  
+I also enjoy collecting colognes and watching absurdly long sports documentaries.
+
+---
+
+## 📬 Let’s Connect
+
+- **LinkedIn:** https://linkedin.com/in/jeevan-parmar-62b464194  
+- **GitHub:** https://github.com/jeevanp03  
+- **Email:** j29parma@uwaterloo.ca  
