@@ -37,17 +37,17 @@ I care about making AI **useful, reliable, and understandable** — and increasi
 ### 🧑‍💻 **Machine Learning Engineer — D&I Integrators (Toronto)**
 Building demand-driven forecasting and applied ML systems for production and capacity planning *(current role, since June 2026)*.
 
+### 📊 **Software Engineer — PathAI (Boston)**
+- Built PathAI's first customer-facing cost dashboard, shipped in **AiSight Dx v2.18**
+- Scoped the MVP with design and customer success, translating customer needs into prioritized requirements
+- Cut delivery time from ~3 months to ~1 month using Django, Vue, and AI-assisted development
+
 ### 🤖 **Social Robotics Research Engineer — NTNU (Trondheim, Norway)**
 A full RAG + agent pipeline running inside a Furhat social robot.
 - Adaptive + Corrective + Self-RAG (improved accuracy ~15%)
 - Sub-8s on-device inference with llama.cpp (~15% lower cloud costs)
 - Dockerized FastAPI services on AWS EC2 (sub-4s end-to-end latency)
 - Powered NorwAI's first robot-connected backend
-
-### 📊 **Software Engineer — PathAI (Boston)**
-- Built PathAI's first customer-facing cost dashboard, shipped in **AiSight Dx v2.18**
-- Scoped the MVP with design and customer success, translating customer needs into prioritized requirements
-- Cut delivery time from ~3 months to ~1 month using Django, Vue, and AI-assisted development
 
 ### 🏭 **Industrial Troubleshooting Agent — Cognite (Austin, Texas)**
 AI system for frontline industrial operators.
