@@ -28,9 +28,7 @@ What I spend most of my time on:
 - Local inference and model optimization with llama.cpp
 - Forecasting pipelines
 - Conversational search and recommendation
-- When people trust AI advice, and when they shouldn't
-
-That last one is where my master's research sits.
+- When people trust AI advice, and when they shouldn't (one portion of my masters topic)
 
 ---
 
@@ -44,7 +42,7 @@ Ask your data in plain English. Natural Schema takes your question, builds a saf
 - You get a clean table back, with the exact SQL on hand if you want to check the work
 - Early access is opening in waves. [Join the waitlist](https://www.naturalschema.com/)
 
-*Since April 2026*
+_Since April 2026_
 
 ### 📈 Machine Learning Engineer, D&I Integrators (Toronto)
 
@@ -54,25 +52,25 @@ Demand forecasting and applied ML for production and capacity planning.
 - Benchmarked 25 forecasting methods against a measured noise floor. The selector lifted service level from 95.4% to 97.1%
 - Traced a truncated ERP feed that overstated resin usage by 1.8x, correcting a $42M resin spend forecast down to 1.05x
 
-*Since June 2026*
+_Since June 2026_
 
 ### 🎓 Graduate Teaching Assistant, University of Waterloo
 
 Teaching MSE 121: Introduction to Computer Programming.
 
-*Since September 2026*
+_Since September 2026_
 
 ### 🔎 Research Assistant, Information Retrieval, University of Waterloo
 
 Recommender-system evaluation and conversational search, with Mark Smucker, Ph.D.
 
-**Research Assistant** *(June 2026 to August 2026, the summer between my undergrad and MASc)*
+**Research Assistant** _(June 2026 to August 2026, the summer between my undergrad and MASc)_
 
 - Removed popularity bias from recsys evaluation by scoring 51 participants as IR topics on MovieLens-32M
 - Cut tuning leakage to zero with pinned 5-fold nested CV, making runs reproducible across 19 qrels sets
 - Validated the harness against a from-scratch ItemItem build, hitting 0.0 metric delta over 493 tests
 
-**Undergraduate Research Assistant** *(June 2025 to April 2026)*
+**Undergraduate Research Assistant** _(June 2025 to April 2026)_
 
 - Focused literature review on conversational search and recommendation systems
 - Synthesized findings on user intent modeling, evaluation metrics, and personalization
@@ -87,7 +85,7 @@ Appropriate human-AI reliance in subjective decision-making, with Sharon Ferguso
 - Led the analysis and writing as first author on a CHI and CUI submission
 - Published [the full study pipeline](https://github.com/uw-share-lab/human-ai-reliance): scenario sampling, explanation generation, the study interface, and post-study analysis
 
-*May 2025 to April 2026*
+_May 2025 to April 2026_
 
 ### 📊 Software Engineer, PathAI (Boston)
 
@@ -95,7 +93,7 @@ Appropriate human-AI reliance in subjective decision-making, with Sharon Ferguso
 - Scoped the MVP with design and customer success, turning customer needs into prioritized requirements
 - Cut delivery time from roughly 3 months to 1 month using Django, Vue, and AI-assisted development
 
-*September 2025 to December 2025*
+_September 2025 to December 2025_
 
 ### 🤖 Social Robotics Research Engineer, NTNU (Trondheim, Norway)
 
@@ -106,7 +104,7 @@ A RAG and agent pipeline running inside a Furhat social robot. [The backend is o
 - Optimized local inference with llama.cpp for sub-8s latency and 15% lower cloud costs
 - Deployed Dockerized FastAPI services on AWS EC2, getting end-to-end latency under 4s
 
-*January 2025 to April 2025*
+_January 2025 to April 2025_
 
 ### 🏭 Software Engineer, Cognite (Austin, Texas)
 
@@ -117,7 +115,7 @@ An industrial troubleshooting agent for frontline operators.
 - Integrated Gemini models to extend document intelligence for GCP customers
 - Implemented tail-generation summarization for long-context handling, cutting token usage by 5%
 
-*May 2024 to September 2024*
+_May 2024 to September 2024_
 
 ### 🏥 Founding AI Engineer, XCare (Toronto)
 
@@ -126,7 +124,7 @@ An industrial troubleshooting agent for frontline operators.
 - Designed a RAG system for personalized rehab guidance grounded in medical literature
 - Co-authored and presented a paper at CUCAI 2024
 
-*October 2023 to October 2024*
+_October 2023 to October 2024_
 
 ---
 
