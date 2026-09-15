@@ -16,6 +16,27 @@
 
 ---
 
+## 🧩 What I'm Building
+
+**[Natural Schema](https://www.naturalschema.com/): ask your data in plain English.**
+
+You type a question. An agent writes a read-only query, puts it through a safety gate, runs it sandboxed, and hands back a table. The SQL comes with it, so you can check its work.
+
+```
+"What were our top 5 products by revenue last quarter?"
+
+SELECT product, sum(revenue) AS rev
+FROM sales
+WHERE quarter = 'Q2'
+GROUP BY product
+ORDER BY rev DESC
+LIMIT 5;
+```
+
+Nothing to write, nobody to wait on. Early access is opening in waves, so [join the waitlist](https://www.naturalschema.com/) if you want in.
+
+---
+
 ## 🧠 What I Work On
 
 Retrieval, agents, and forecasting, mostly. I've shipped that kind of thing for industrial operators at Cognite, for clinicians at XCare, and into a social robot in Norway.
@@ -30,123 +51,31 @@ Before that it was RAG pipelines, squeezing models onto local hardware with llam
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Where I've Worked
 
-### 🧩 Co-founder, [Natural Schema](https://www.naturalschema.com/) (San Jose, CA)
+**Now**
 
-Ask your data in plain English. You type a question, an agent builds a read-only ETL, runs it, and gives you the answer. No SQL. No waiting on the data team.
+- **[Natural Schema](https://www.naturalschema.com/)**, co-founder *(San Jose, Apr 2026 to now)*
+- **D&I Integrators**, ML engineer *(Toronto, Jun 2026 to now)*. Demand forecasting for production planning, 20M units a quarter across 173 SKUs.
+- **University of Waterloo**, MASc student and TA for MSE 121 *(Sep 2026 to now)*. Responsible AI and VLA systems.
 
-The agent writes one `SELECT`, puts it through a safety gate, and runs it sandboxed and scoped to you. You get a table back, plus the exact SQL if you want to check its work.
+**Research**
 
-Early access is opening in waves. [Join the waitlist](https://www.naturalschema.com/).
+- **SHARE Lab**, undergrad RA with Sharon Ferguson *(Waterloo, May 2025 to Apr 2026)*. Experiments on when people over-rely on AI advice, first author on a CHI and CUI submission, and the [study pipeline is public](https://github.com/uw-share-lab/human-ai-reliance).
+- **IR group**, RA with Mark Smucker *(Waterloo, Jun 2025 to Apr 2026, then Jun to Aug 2026)*. Got popularity bias out of recommender evaluation, and reviewed where conversational search has got to.
 
-*Since April 2026*
+**Before**
 
-### 📈 Machine Learning Engineer, D&I Integrators (Toronto)
+- **PathAI**, software engineer *(Boston, Sep 2025 to Dec 2025)*. Built their first customer-facing cost dashboard, shipped in [AiSight Dx v2.18](https://www.pathai.com/news/pathai-expands-aisight-dx-with-v2.18-release-operational-dashboards-smarter-workflows-and-streamlined-reporting).
+- **NTNU**, social robotics research engineer *(Trondheim, Jan 2025 to Apr 2025)*. Put a RAG agent inside a Furhat social robot, and [the backend is open source](https://github.com/jeevanp03/my_furhat_backend).
+- **Cognite**, software engineer *(Austin, May 2024 to Sep 2024)*. Built the first agent to ship on their ["Atlas" Industrial AI platform](https://www.cognite.com/en/industrial-ai).
+- **XCare**, founding AI engineer *(Toronto, Oct 2023 to Oct 2024)*. X-ray classification with CNNs and ViTs, plus a RAG system for rehab guidance.
+- **Genellipse**, software engineer *(Toronto, Sep 2023 to Dec 2023)*. MongoDB architecture for vector similarity search across 13 collections.
+- **Approva Financial**, full-stack developer *(Toronto, Jan 2023 to Dec 2023)*. MERN app for a fintech going through Techstars.
+- **TD**, automation QA engineer *(Toronto, Jan 2023 to Apr 2023)*. Selenium test framework that ran 58% faster than what it replaced.
+- **Microsoft and UWaterloo WEA**, project team *(Waterloo, May 2022 to Aug 2022)*. Azure ML tool for sorting physical disability services.
 
-Forecasting for production and capacity planning.
-
-- Replaced a manual Excel re-forecast with a 27-stage Azure ML pipeline. It covers 20M units a quarter across 173 SKUs.
-- Benchmarked 25 forecasting methods against a measured noise floor. The selector took service level from 95.4% to 97.1%.
-- Found a truncated ERP feed that had been overstating resin usage by 1.8x. Fixing it corrected a $42M spend forecast.
-
-*Since June 2026*
-
-### 🎓 Graduate Teaching Assistant, University of Waterloo
-
-TA for MSE 121, Introduction to Computer Programming.
-
-*Since September 2026*
-
-### 🔎 Research Assistant, University of Waterloo
-
-Recommender systems and conversational search, with Mark Smucker.
-
-**Research Assistant** *(June 2026 to August 2026, the summer between my undergrad and my MASc)*
-
-- Scored 51 participants as IR topics on MovieLens-32M to get popularity bias out of recsys evaluation
-- Pinned 5-fold nested CV so tuning stopped leaking. Runs now reproduce across 19 qrels sets.
-- Checked the harness against an ItemItem build I wrote from scratch. 493 tests, 0.0 metric delta.
-
-**Undergraduate Research Assistant** *(June 2025 to April 2026)*
-
-- Literature review on conversational search and recommender systems
-- Wrote up where the field stands on user intent modeling, evaluation metrics, and personalization
-- Built a CAL framework for content-based recommendations
-
-### 🗣️ Undergraduate Research Assistant, SHARE Lab, University of Waterloo
-
-When people should and shouldn't lean on AI advice, with Sharon Ferguson.
-
-- Designed and ran online experiments on over-reliance and under-reliance in subjective decisions
-- Built a closed LLM chat environment inside Qualtrics so we could watch reliance behaviour under controlled conditions
-- First author on a CHI and CUI submission. I led the analysis and the writing.
-- The [study pipeline is public](https://github.com/uw-share-lab/human-ai-reliance): scenario sampling, explanation generation, the interface participants used, and the analysis afterwards
-
-*May 2025 to April 2026*
-
-### 📊 Software Engineer, PathAI (Boston)
-
-- Built PathAI's first customer-facing cost dashboard. It shipped in [AiSight Dx v2.18](https://www.pathai.com/news/pathai-expands-aisight-dx-with-v2.18-release-operational-dashboards-smarter-workflows-and-streamlined-reporting).
-- Scoped the MVP with design and customer success, and turned what customers asked for into a priority order
-- Django and Vue, heavy AI assistance. Took the timeline from about three months to one.
-
-*September 2025 to December 2025*
-
-### 🤖 Social Robotics Research Engineer, NTNU (Trondheim, Norway)
-
-A RAG and agent pipeline running inside a Furhat social robot. [The backend is open source](https://github.com/jeevanp03/my_furhat_backend).
-
-- Conversational agent built on Adaptive, Corrective, and Self-RAG. Accuracy went up 15%.
-- Connected the Python agents to Kotlin Furhat skills, which gave NorwAI its first robot-connected backend
-- Tuned local inference with llama.cpp down to sub-8s, and cut cloud costs 15% along the way
-- Dockerized FastAPI on EC2. End-to-end latency under 4s.
-
-*January 2025 to April 2025*
-
-### 🏭 Software Engineer, Cognite (Austin, Texas)
-
-A troubleshooting agent for frontline industrial operators, and the first agent on the ["Atlas" Industrial AI platform](https://www.cognite.com/en/industrial-ai).
-
-- Got document parsing to 90% accuracy with embedding-based retrieval and cross-encoding
-- Added Gemini so GCP customers could use document intelligence too
-- Wrote tail-generation summarization for long contexts. 5% fewer tokens.
-
-*May 2024 to September 2024*
-
-### 🏥 Founding AI Engineer, XCare (Toronto)
-
-- Fine-tuned CNNs and Vision Transformers for X-ray diagnosis, to 90% classification accuracy
-- RAPTOR-based retrieval pipeline. Medical retrieval accuracy went to 95%.
-- RAG system for personalized rehab guidance, grounded in medical literature
-- Co-authored a paper and presented it at CUCAI 2024
-
-*October 2023 to October 2024*
-
----
-
-## 🌍 Where I've Worked
-
-- **San Jose, California:** Natural Schema
-- **Austin, Texas:** Cognite
-- **Boston, Massachusetts:** PathAI
-- **Trondheim, Norway:** NorwAI and NTNU
-- **Toronto, Ontario:** XCare, Genellipse, Approva, D&I Integrators, and QA automation at TD
-- **Waterloo, Ontario:** both degrees, plus research and TA work
-- **Vancouver, BC:** where I started
-
----
-
-## 🧰 Other Things I've Built
-
-- MERN applications for a fintech startup in Techstars (Approva)
-- Test automation at TD in Java Selenium and Jenkins. 30+ end-to-end cases, 58% faster than what it replaced.
-- MongoDB architecture at Genellipse for vector similarity search across 13 collections
-- An accessibility services tool on Azure ML, through the Microsoft and UWaterloo WEA partnership
-- Predictive analytics dashboards
-- CI/CD on Jenkins, Firebase, and Supabase
-
-My [full work history is on LinkedIn](https://linkedin.com/in/jeevan-parmar-62b464194).
+The [longer version is on LinkedIn](https://linkedin.com/in/jeevan-parmar-62b464194).
 
 ---
 
