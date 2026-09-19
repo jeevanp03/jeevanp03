@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  MASc student at Waterloo, researching human-AI trust and LLM evaluation · Co-founder at <a href="https://www.naturalschema.com/">Natural Schema</a> · ML engineer at D&I Integrators
+  MASc student at Waterloo in responsible AI, currently researching human-AI trust and LLM evaluation · Co-founder at <a href="https://www.naturalschema.com/">Natural Schema</a> · ML engineer at D&I Integrators
 </div>
 
 ---
@@ -65,7 +65,7 @@ Before that it was RAG pipelines, squeezing models onto local hardware with llam
 
 **Now**
 
-- **University of Waterloo**, MASc student and TA for MSE 121 *(Sep 2026 to now)*. Responsible AI and VLA systems, co-supervised by Sharon Ferguson and Sirisha Rambhatla across the SHARE Lab and Critical ML Lab.
+- **University of Waterloo**, MASc student and TA for MSE 121 *(Sep 2026 to now)*. Thesis on responsible AI and VLA systems.
 - **[Natural Schema](https://www.naturalschema.com/)**, co-founder *(San Jose, Apr 2026 to now)*
 - **D&I Integrators**, ML engineer *(Toronto, Jun 2026 to now)*. Demand forecasting for production planning, 18.7M units a quarter across 183 SKUs.
 
@@ -107,7 +107,7 @@ The [longer version is on LinkedIn](https://linkedin.com/in/jeevan-parmar-62b464
 
 BASc with distinction from Waterloo in Management Engineering, computing option. Machine learning, optimization, HCI, software engineering, systems design, decision analysis.
 
-Now a MASc student there in Management Science and Engineering, on Responsible AI and VLA systems. Co-supervised by Sharon Ferguson (SHARE Lab) and Sirisha Rambhatla (Critical ML Lab), with MSE 121 to TA on the side. Expected finish: August 2028.
+Now a MASc student there in Management Science and Engineering, with a thesis on responsible AI and VLA systems. Co-supervised by Sharon Ferguson (SHARE Lab) and Sirisha Rambhatla (Critical ML Lab), with MSE 121 to TA on the side. Expected finish: August 2028.
 
 ---
 
