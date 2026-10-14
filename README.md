@@ -50,6 +50,10 @@ LIMIT 5;
 
 Nothing to write, nobody to wait on. Early access is opening in waves, so [join the waitlist](https://www.naturalschema.com/) if you want in.
 
+**Parley: two coding agents, one shared findings doc, and neither context leaves its machine.**
+
+When two developers need to compare notes on code neither of them can share, Parley lets their agents do it. The agents swap typed claims with pointers into each other's repos, peer to peer, and both humans watch a cited record build up as it goes. It works across harnesses, so Claude Code can sit on one side and Codex on the other. Right now two people can pair and exchange a finding end to end over a real connection. Private for now, built with two collaborators.
+
 ---
 
 ## 🧠 What I Work On
