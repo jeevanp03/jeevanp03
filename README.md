@@ -24,6 +24,11 @@ The question I keep coming back to: when do people trust AI more than they shoul
 - **SHARE Lab**, undergrad RA with Sharon Ferguson *(Waterloo, May 2025 to Apr 2026)*. Experiments on when people over-rely on AI advice. First-author paper under review at CHI 2027, and the [study pipeline is public](https://github.com/uw-share-lab/human-ai-reliance).
 - **IR group**, RA with Mark Smucker *(Waterloo, Jun 2025 to Apr 2026, then Jun to Aug 2026)*. Got popularity bias out of recommender evaluation, and reviewed where conversational search has got to.
 
+A systematic review needs a search anyone can run again, and Google Scholar can't give you one. So I built the tools for it, and both are open source:
+
+- **[OpenProceedings](https://github.com/uw-share-lab/openproceedings):** exact Boolean search over the titles and abstracts of NeurIPS, ICLR, ICML, AAAI, AIES, FAccT and IASEAI. No stemming, and workshop papers are left out unless you ask for them. A saved search replays to the same set of papers, says what changed if it doesn't, and reports its own PRISMA exclusion counts.
+- **[scholarmend](https://github.com/uw-share-lab/scholarmend):** fills in the real venue, year and track that Google Scholar's RIS exports cut off, so screening works from facts.
+
 ---
 
 ## 🧩 What I'm Building
