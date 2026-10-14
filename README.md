@@ -54,6 +54,10 @@ Nothing to write, nobody to wait on. Early access is opening in waves, so [join 
 
 When two developers need to compare notes on code neither of them can share, Parley lets their agents do it. The agents swap typed claims with pointers into each other's repos, peer to peer, and both humans watch a cited record build up as it goes. It works across harnesses, so Claude Code can sit on one side and Codex on the other. Right now two people can pair and exchange a finding end to end over a real connection. Private for now, built with two collaborators.
 
+**OneBit Agent: an autonomous agent on a 1-bit model, running on a laptop CPU.**
+
+It's a prototype to see whether a ternary LLM can drive an agent you'd actually use, with no GPU and no cloud. The weights are about 90% smaller than FP16, it runs offline, and after the download each run costs nothing. It runs a bounded think, act, observe loop over a small sandboxed tool set. Tool calls are grammar-constrained, which keeps a weak model on the rails. There are also multi-agent pipelines (planner, researcher, writer) that can switch to a stronger local model through Ollama when the job needs it. Private for now.
+
 ---
 
 ## 🧠 What I Work On
